@@ -1,0 +1,4 @@
+swarmauri[full]==0.4.1
+python-dotenv
+gradio
+groq
